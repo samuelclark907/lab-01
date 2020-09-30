@@ -1,0 +1,19 @@
+body {
+  background-color: orangered;
+}
+
+header {
+  background-color: rgb(240, 131, 131);
+}
+
+main section {
+  background-color: blue;
+}
+
+section {
+  background-color: red;
+}
+
+footer {
+  background-color: purple;
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: orangered;
+}
+
+header {
+  background-color: rgb(240, 131, 131);
+  /* border: black solid 2px; */
+}
+
+main div {
+  background-color: blue;
+  /* border: black solid 2px; */
+}
+
+div {
+  background-color: red;
+  /* border: black solid 2px; */
+}
+
+footer {
+  background-color: purple;
+  /* border: black solid 2px; */
+}
